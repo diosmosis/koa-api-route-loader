@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diosmosis/koa-api-route-loader.svg?branch=master)](https://travis-ci.org/diosmosis/koa-api-route-loader)
+
 # koa-api-route-loader
 
 Simple function that adds routes to a koa-router instance by descending through a directory of files and constructing paths for exported generators.
